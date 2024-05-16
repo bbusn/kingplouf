@@ -10,7 +10,6 @@
     <meta property="og:description" content="Découvrez King Plouf, une application utilisable à l'IUT de Chambéry afin de personnaliser son règne">
     
     <!-- LINKS -->
-    <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
