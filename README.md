@@ -14,11 +14,14 @@ Welcome to Kingplouf, a web application to custom your toilet ambiance. It has m
 
 ## Demonstration
 
+App hosted here : https://kingplouf.benoitbusnardo.fr
+
 Here is the dispositive installed on a reel toilet with leds and speakers.
 
 ![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/kingplouf/demo.png)
 ![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/kingplouf/demo2.png)
 ![App Screenshot](https://benoitbusnardo.fr/assets/images/projects/bonus/kingplouf/demo3.png)
+
 
 ## Installation
 
