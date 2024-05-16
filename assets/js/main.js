@@ -14,14 +14,14 @@ function playTheme(theme) {
   if (currentAudio) {
       currentAudio.pause();
   }
-  let audio = new Audio('assets/audio/' + theme + '.mp3');
+  let audio = new Audio('assets/audios/' + theme + '.mp3');
 
   audio.loop = true;
   audio.play();
   currentAudio = audio;
 
   let video = document.querySelector('video');
-  video.src = 'assets/media/' + theme + '.mp4';
+  video.src = 'assets/videos/' + theme + '.mp4';
   video.id = 'video-' + theme;
   video.play();
 
